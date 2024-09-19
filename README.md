@@ -2,6 +2,7 @@
 
 👩🏻‍💻 A passionate Software Engineer, I bring a passion for crafting high-caliber solutions to any project.
 
+<!--
 ### Currently I am working with ...
 
 <a href="" target="_blank" title="Angular" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -26,6 +27,7 @@
 <a href="" target="_blank" title="MongoDB" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Mysql" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="Mysql" width="60" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="AWS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="30" height="30"/></a>&nbsp;&nbsp;
+-->
 
 <!--
 ### I have also worked with ...
